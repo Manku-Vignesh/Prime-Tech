@@ -1,0 +1,28 @@
+{
+  "type": "service_account",
+  "project_id": "delivery-b1448",
+  "private_key_id": "cb85932deee261cf4ee3035acb8597b378adb350",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCo0LNKLlgOz2Z2\nI5cuO65aJ0s6huRw4CZYmq1bBm3Py6BasZmk+LSxRyfSoeUnctdhLY36DcQUEFoN\no4EgFOPs4rj+TRbY/NTaAjRGvJ+4yVKCTTH64crIbcilDf63pyYqR7ZGYkz0m//O\n/LWmjqhcPhQOGG1UvS9nNo4OW5eMkBMsfGxYySvv7hWqwkyVRXuhLRKPNgEclRPg\n9N6Oqc4ywmUqn9RSeQJb8lXV9mo7BGJV449T96ZuelNzrz9JtuAR9ivnd851orZb\nKeyhmTQsXRMH2YfyiDicdpJEDUnaA2qYPepnWKjeaOBNUYySIqJ6ossx7Abt0u6Q\nGq67EnvLAgMBAAECggEABBbWGPhpaqZseXUgPt70OLvV7yuAUhmj5CaPB3Lu6wco\nMbo2mg/qNJcgKFKCngOCoxh65XE67C9/NvBcet32rXDKgWJ1qLjrIQLHqGT+S3gY\n9w4OpWCdzGAYaaMepe03F/QXvrm32n8C4c0uS0QOYPmh+7tsvo48nTftlfxy/dUf\ncV9qiWbCSQ2pfuJphGwJRhokplupJvgoUCSE4I8amQkHEvmxTqKHrgkxLkNe4Og3\nWfvHetU4O/ZnIvaBjMDgiCwy8+RzhOJYHCaG78b/sDP9ybVVGqkZ+iBRQoP1/igy\nPaucslMktR7r1hmwgkTnSTaL4D2nc8yxTChkanIccQKBgQDs9vEfpy9NwgTy/vXG\n9jlMuN1JyKmZWNeQODEdbz3MeN+Th7Li7n3uOnJdXN1tbkamt2b7hjBuCC++1ME5\nQEbdPzK9DPYimhvlbXSqJbMjyvtfuoJdyKYf/dOlbE1jDqQqsb8abdIHuMB7TjbD\nBGYU8G176qE+lzEoNIt+sNYEUQKBgQC2YEz8vQC4t3lLOG6vQMhXhcuXWWf1fbQd\nnS5YDKNfzH3Fn0ETM8pT0V/YTxTFmqeZPRCKB47EvzQ65r9/gRqolyQB6GPu4zVh\nf7TsUncfbPagFHobkhrBvplZPIBdI9+MW+qOMN0j4uAd4J9TRrc48LdFUI9JbzNg\ndy9Oi1IDWwKBgE0BHnBL0wpwv0z734CtaQdul7Kve7WycjKSoBtRmAKHURhPI6mt\nGM0+vwVp9SbnjBwHQ3b/L2PCU0mvN69UHPMu410eBipObDxNKnlUUPeTscZ1BIJX\nfuysfoemPyuuiVi6dECxaWxK9Hnde9w55LZvPxTitU1ysm2/TYl5C8NRAoGADJV0\nenPoGta+DcylBn6n1DItLBJFNBEqXmi8C+NDWpbXjs1ARjzqlwH5ZQl/22qiadZm\nz79ZwIWY6v+E8x1LY5qaJ2+Lha4zvrh7GVtPUOHJ2p3PFxvrsLagCiI8kTCqehrV\ngl4oxBMhd65KEArvFYS2gJfgaya7GsrefsLqM8UCgYEAxTALJiGUN+E9TxBj+lXH\n51bjn4+L/mH/9cJBHvxsTsYFWSNfn1EUNJ2FWpQbG59TfWIyFHjhmX54jD7fI/hV\nnjmKvC7mWJhhQYgSKQhD2FnkyZOpz1pMElq6cVzYiq71RCL9uNDYekY5ZO7vzA3m\nCnfBiNrvTnxc+2pJi45sZxQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "deals-data@delivery-b1448.iam.gserviceaccount.com",
+  "client_id": "106174346041837602311",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deals-data%40delivery-b1448.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com",
+  "name": "site",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.2",
+    "express": "^4.21.2"
+  },
+  "description": ""
+}
